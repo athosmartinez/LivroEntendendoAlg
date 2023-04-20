@@ -3,4 +3,4 @@ Console.WriteLine("Hello, World!");
 var central = new CentralDeComandos(new Dictionary<string, Action>())
 {
 
-}
+};
